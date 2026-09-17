@@ -11,18 +11,18 @@
   <meta name="keywords" content="recipes, easy dinners, quick meals, healthy recipes, meal planning, baking, vegetarian, keto recipes, gogorecipe, cooking guide">
   <meta name="author" content="GoGo Recipe Editorial Team">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
-  <link rel="canonical" href="https://gogorecipe.online/">
+  <link rel="canonical" href="https://gogorecipe-deb35a23fd33.herokuapp.com/">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://gogorecipe.online/">
+  <meta property="og:url" content="https://gogorecipe-deb35a23fd33.herokuapp.com/">
   <meta property="og:title" content="GoGo Recipe - Quick, Delicious & Tested Recipes">
-  <meta property="og:description" content="Explore simple, flavor-packed meals, step-by-step guides, and dynamic cooking tools at gogorecipe.online.">
+  <meta property="og:description" content="Explore simple, flavor-packed meals, step-by-step guides, and dynamic cooking tools at gogorecipe-deb35a23fd33.herokuapp.com.">
   <meta property="og:image" content="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1200&q=80">
 
   <!-- Twitter Card -->
   <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://gogorecipe.online/">
+  <meta property="twitter:url" content="https://gogorecipe-deb35a23fd33.herokuapp.com/">
   <meta property="twitter:title" content="GoGo Recipe - Everyday Culinary Inspiration">
   <meta property="twitter:description" content="Explore healthy dinners, fast weeknight dishes, and interactive recipe tools.">
   <meta property="twitter:image" content="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1200&q=80">
@@ -42,8 +42,8 @@
     "@graph": [
       {
         "@type": "WebSite",
-        "@id": "https://gogorecipe.online/#website",
-        "url": "https://gogorecipe.online/",
+        "@id": "https://gogorecipe-deb35a23fd33.herokuapp.com/#website",
+        "url": "https://gogorecipe-deb35a23fd33.herokuapp.com/",
         "name": "GoGo Recipe",
         "description": "Your ultimate source for quick, healthy, and culinary test-kitchen approved recipes.",
         "publisher": {
@@ -56,20 +56,20 @@
         },
         "potentialAction": {
           "@type": "SearchAction",
-          "target": "https://gogorecipe.online/?s={search_term_string}",
+          "target": "https://gogorecipe-deb35a23fd33.herokuapp.com/?s={search_term_string}",
           "query-input": "required name=search_term_string"
         }
       },
       {
         "@type": "Organization",
-        "@id": "https://gogorecipe.online/#organization",
+        "@id": "https://gogorecipe-deb35a23fd33.herokuapp.com/#organization",
         "name": "GoGo Recipe",
-        "url": "https://gogorecipe.online/",
-        "email": "support@gogorecipe.online",
+        "url": "https://gogorecipe-deb35a23fd33.herokuapp.com/",
+        "email": "support@gogorecipe-deb35a23fd33.herokuapp.com",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "customer service",
-          "email": "support@gogorecipe.online",
+          "email": "support@gogorecipe-deb35a23fd33.herokuapp.com",
           "availableLanguage": "English"
         }
       },
@@ -1771,7 +1771,7 @@
   <header class="header" id="mainHeader">
     <div class="container">
       <div class="nav-wrapper">
-        <a href="https://gogorecipe.online/" class="logo" aria-label="GoGo Recipe Home">
+        <a href="https://gogorecipe-deb35a23fd33.herokuapp.com/" class="logo" aria-label="GoGo Recipe Home">
           <div class="logo-icon"><i class="fa-solid fa-utensils"></i></div>
           <div>GoGo<span>Recipe</span></div>
         </a>
@@ -2016,7 +2016,7 @@
           <div class="editorial-card">
             <i class="fa-solid fa-kitchen-set"></i>
             <h3>Triple-Tested Method</h3>
-            <p>Every single recipe on <strong>gogorecipe.online</strong> is cooked and tested 3 times across standard home kitchen equipment to guarantee consistent, foolproof outcomes for you.</p>
+            <p>Every single recipe on <strong>gogorecipe-deb35a23fd33.herokuapp.com</strong> is cooked and tested 3 times across standard home kitchen equipment to guarantee consistent, foolproof outcomes for you.</p>
           </div>
 
           <div class="editorial-card">
@@ -2036,7 +2036,7 @@
         <div class="ad-transparency-card">
           <h4><i class="fa-solid fa-circle-info text-primary"></i> Transparency & Advertising Disclosure (FTC & Google Compliance)</h4>
           <p>
-            <strong>gogorecipe.online</strong> is committed to full transparency under the Federal Trade Commission (FTC) guidelines and Google AdWords Publisher Policies. We may host advertisements supplied by Google and third-party advertising networks, and participate in affiliate marketing programs. This means we may earn a small referral commission when you purchase kitchen essentials or ingredients through our links, at absolutely zero additional cost to you. Advertised content and commercial sponsors never dictate our editorial recipes. For questions or details, please visit our <a href="#legal-hub" onclick="switchPolicyTab('disclaimer')">Advertising & Affiliate Disclosure Policy</a>.
+            <strong>gogorecipe-deb35a23fd33.herokuapp.com</strong> is committed to full transparency under the Federal Trade Commission (FTC) guidelines and Google AdWords Publisher Policies. We may host advertisements supplied by Google and third-party advertising networks, and participate in affiliate marketing programs. This means we may earn a small referral commission when you purchase kitchen essentials or ingredients through our links, at absolutely zero additional cost to you. Advertised content and commercial sponsors never dictate our editorial recipes. For questions or details, please visit our <a href="#legal-hub" onclick="switchPolicyTab('disclaimer')">Advertising & Affiliate Disclosure Policy</a>.
           </p>
         </div>
       </div>
@@ -2068,9 +2068,9 @@
           <!-- 1. PRIVACY POLICY -->
           <div class="policy-panel active" id="policy-privacy">
             <h3>Privacy Policy</h3>
-            <span class="policy-updated">Effective Date: January 1, 2026 | Last Updated: February 2026 | Domain: gogorecipe.online</span>
+            <span class="policy-updated">Effective Date: January 1, 2026 | Last Updated: February 2026 | Domain: gogorecipe-deb35a23fd33.herokuapp.com</span>
             
-            <p>Welcome to <strong>GoGo Recipe</strong> ("we," "our," or "us"). We respect your privacy and are committed to protecting personal information you may provide while visiting <strong>https://gogorecipe.online</strong>. This Privacy Policy explains our practices regarding the collection, use, disclosure, and safeguarding of your data in accordance with the General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), and Google Ads/AdSense publisher guidelines.</p>
+            <p>Welcome to <strong>GoGo Recipe</strong> ("we," "our," or "us"). We respect your privacy and are committed to protecting personal information you may provide while visiting <strong>https://gogorecipe-deb35a23fd33.herokuapp.com</strong>. This Privacy Policy explains our practices regarding the collection, use, disclosure, and safeguarding of your data in accordance with the General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), and Google Ads/AdSense publisher guidelines.</p>
 
             <h4>1. Information We Collect</h4>
             <p>We may collect information about you in a variety of ways:</p>
@@ -2081,20 +2081,20 @@
             </ul>
 
             <h4>2. Google Advertising & Third-Party Cookies (Google Ads / AdSense)</h4>
-            <p>Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website or other websites. Google's use of advertising cookies enables it and its partners to serve ads to our users based on their visit to <strong>gogorecipe.online</strong> and/or other sites on the Internet.</p>
+            <p>Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website or other websites. Google's use of advertising cookies enables it and its partners to serve ads to our users based on their visit to <strong>gogorecipe-deb35a23fd33.herokuapp.com</strong> and/or other sites on the Internet.</p>
             <ul>
               <li>Users may opt out of personalized advertising by visiting <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener noreferrer">Google Ads Settings</a>.</li>
               <li>Alternatively, you can opt out of a third-party vendor's use of cookies for personalized advertising by visiting <a href="https://www.aboutads.info/choices/" target="_blank" rel="noopener noreferrer">www.aboutads.info</a> or <a href="https://optout.networkadvertising.org/" target="_blank" rel="noopener noreferrer">Network Advertising Initiative</a>.</li>
             </ul>
 
             <h4>3. How We Use Your Information</h4>
-            <p>We use collected data to maintain, monitor, and improve the speed, design, and culinary utility of <strong>gogorecipe.online</strong>; respond to user feedback; deliver newsletter recipes; detect and prevent fraud; and serve non-intrusive, relevant advertisements.</p>
+            <p>We use collected data to maintain, monitor, and improve the speed, design, and culinary utility of <strong>gogorecipe-deb35a23fd33.herokuapp.com</strong>; respond to user feedback; deliver newsletter recipes; detect and prevent fraud; and serve non-intrusive, relevant advertisements.</p>
 
             <h4>4. GDPR & CCPA Consumer Rights</h4>
             <p>Depending on your jurisdiction (such as the EU/EEA or California), you hold rights to: request access to personal data; request rectification or deletion of your data; object to or restrict processing; and request data portability. California residents also have the right to request notice of categories of personal information collected and request non-discrimination for exercising privacy rights. We do NOT sell your personal information.</p>
 
             <h4>5. Contact Our Data Protection Officer</h4>
-            <p>If you have any questions or wish to exercise your privacy rights, please reach out to our privacy compliance desk at <a href="mailto:support@gogorecipe.online">support@gogorecipe.online</a>.</p>
+            <p>If you have any questions or wish to exercise your privacy rights, please reach out to our privacy compliance desk at <a href="mailto:support@gogorecipe-deb35a23fd33.herokuapp.com">support@gogorecipe-deb35a23fd33.herokuapp.com</a>.</p>
           </div>
 
           <!-- 2. TERMS OF SERVICE -->
@@ -2102,10 +2102,10 @@
             <h3>Terms of Service</h3>
             <span class="policy-updated">Effective Date: January 1, 2026 | Last Updated: February 2026</span>
             
-            <p>By accessing and utilizing <strong>gogorecipe.online</strong>, you agree to be bound by these Terms of Service. If you do not agree with any part of these terms, you must refrain from using the site.</p>
+            <p>By accessing and utilizing <strong>gogorecipe-deb35a23fd33.herokuapp.com</strong>, you agree to be bound by these Terms of Service. If you do not agree with any part of these terms, you must refrain from using the site.</p>
 
             <h4>1. Intellectual Property & Permitted Use</h4>
-            <p>All recipes, text, original photography, graphics, and code on <strong>gogorecipe.online</strong> are the intellectual property of GoGo Recipe unless otherwise stated. You are granted a limited, personal, non-commercial license to view and print recipes for your private home cooking. Republication, distribution, web scraping, or commercial exploitation without prior written consent is strictly prohibited.</p>
+            <p>All recipes, text, original photography, graphics, and code on <strong>gogorecipe-deb35a23fd33.herokuapp.com</strong> are the intellectual property of GoGo Recipe unless otherwise stated. You are granted a limited, personal, non-commercial license to view and print recipes for your private home cooking. Republication, distribution, web scraping, or commercial exploitation without prior written consent is strictly prohibited.</p>
 
             <h4>2. User Conduct & Submissions</h4>
             <p>When posting reviews, comments, or recipe adjustments, you agree not to submit unlawful, threatening, defamatory, or infringing content. We reserve the right to review, edit, or remove any user commentary at our sole discretion.</p>
@@ -2120,7 +2120,7 @@
             <span class="policy-updated">Compliance with FTC 16 CFR Part 255 & Food Safety Standards</span>
 
             <h4>1. Culinary & Recipe Accuracy Disclaimer</h4>
-            <p>All recipes on <strong>gogorecipe.online</strong> have been developed and tested in good faith. However, individual cooking outcomes may vary depending on altitude, oven calibration, ingredient freshness, brand differences, and cooking skills. Users are responsible for exercising safe food preparation practices.</p>
+            <p>All recipes on <strong>gogorecipe-deb35a23fd33.herokuapp.com</strong> have been developed and tested in good faith. However, individual cooking outcomes may vary depending on altitude, oven calibration, ingredient freshness, brand differences, and cooking skills. Users are responsible for exercising safe food preparation practices.</p>
 
             <h4>2. Health, Nutritional & Allergen Medical Disclaimer</h4>
             <p><strong>Informational Purposes Only:</strong> The nutritional information (calories, macronutrients) presented on this site is calculated via automated nutritional software and estimates. It is not intended as medical, dietary, or nutritional advice. Readers with severe food allergies (such as nuts, dairy, gluten, shellfish), medical conditions (such as diabetes, hypertension), or dietary restrictions must independently verify ingredient labels and consult a certified healthcare professional or registered dietitian.</p>
@@ -2129,7 +2129,7 @@
             <p>Users must adhere to proper food safety guidelines, including safe internal cooking temperatures (e.g., poultry 165°F / 74°C; ground meats 160°F / 71°C; seafood 145°F / 63°C), preventing cross-contamination between raw meats and ready-to-eat foods, and proper refrigeration.</p>
 
             <h4>4. FTC Affiliate Disclosure & Sponsored Content</h4>
-            <p>In accordance with FTC guidelines, please assume that links on <strong>gogorecipe.online</strong> may be affiliate links. If you click a product link and make a purchase, we may receive a small commission from the merchant at no additional cost to you. We only recommend kitchen tools and ingredients that we genuinely use and trust in our test kitchen.</p>
+            <p>In accordance with FTC guidelines, please assume that links on <strong>gogorecipe-deb35a23fd33.herokuapp.com</strong> may be affiliate links. If you click a product link and make a purchase, we may receive a small commission from the merchant at no additional cost to you. We only recommend kitchen tools and ingredients that we genuinely use and trust in our test kitchen.</p>
           </div>
 
           <!-- 4. COOKIE POLICY -->
@@ -2137,7 +2137,7 @@
             <h3>Cookie Policy</h3>
             <span class="policy-updated">Last Updated: February 2026</span>
 
-            <p>This Cookie Policy explains how <strong>gogorecipe.online</strong> uses cookies and similar tracking technologies when you browse our site.</p>
+            <p>This Cookie Policy explains how <strong>gogorecipe-deb35a23fd33.herokuapp.com</strong> uses cookies and similar tracking technologies when you browse our site.</p>
 
             <table class="policy-table">
               <thead>
@@ -2175,17 +2175,17 @@
             <h3>DMCA & Copyright Policy</h3>
             <span class="policy-updated">Digital Millennium Copyright Act Notice</span>
 
-            <p>GoGo Recipe respects the intellectual property rights of creators. If you believe your copyrighted material has been used on <strong>gogorecipe.online</strong> in a manner that constitutes copyright infringement, please submit a formal DMCA notice to our designated Copyright Agent.</p>
+            <p>GoGo Recipe respects the intellectual property rights of creators. If you believe your copyrighted material has been used on <strong>gogorecipe-deb35a23fd33.herokuapp.com</strong> in a manner that constitutes copyright infringement, please submit a formal DMCA notice to our designated Copyright Agent.</p>
 
             <h4>Required Information in Takedown Notice:</h4>
             <ul>
               <li>Identification of the copyrighted work claimed to be infringed.</li>
-              <li>The exact URL or location on <strong>gogorecipe.online</strong> of the allegedly infringing material.</li>
+              <li>The exact URL or location on <strong>gogorecipe-deb35a23fd33.herokuapp.com</strong> of the allegedly infringing material.</li>
               <li>Your contact details: full legal name, physical address, phone number, and email.</li>
               <li>A statement of good faith belief that the disputed use is not authorized.</li>
               <li>A physical or electronic signature of the authorized copyright holder.</li>
             </ul>
-            <p>Send all DMCA notifications to: <a href="mailto:dmca@gogorecipe.online">dmca@gogorecipe.online</a>.</p>
+            <p>Send all DMCA notifications to: <a href="mailto:dmca@gogorecipe-deb35a23fd33.herokuapp.com">dmca@gogorecipe-deb35a23fd33.herokuapp.com</a>.</p>
           </div>
 
           <!-- 6. EDITORIAL STANDARDS -->
@@ -2223,7 +2223,7 @@
                 <div class="channel-icon"><i class="fa-regular fa-envelope"></i></div>
                 <div class="channel-text">
                   <h4>Email Support</h4>
-                  <p><a href="mailto:support@gogorecipe.online" style="color: var(--primary); font-weight: 600;">support@gogorecipe.online</a></p>
+                  <p><a href="mailto:support@gogorecipe-deb35a23fd33.herokuapp.com" style="color: var(--primary); font-weight: 600;">support@gogorecipe-deb35a23fd33.herokuapp.com</a></p>
                   <p style="font-size: 0.75rem;">Typical response time: Within 24-48 business hours.</p>
                 </div>
               </div>
@@ -2233,7 +2233,7 @@
                 <div class="channel-text">
                   <h4>Editorial & Test Kitchen Office</h4>
                   <p>GoGo Recipe Digital Media Ltd.</p>
-                  <p>Website: <a href="https://gogorecipe.online">https://gogorecipe.online</a></p>
+                  <p>Website: <a href="https://gogorecipe-deb35a23fd33.herokuapp.com">https://gogorecipe-deb35a23fd33.herokuapp.com</a></p>
                 </div>
               </div>
 
@@ -2241,7 +2241,7 @@
                 <div class="channel-icon"><i class="fa-solid fa-shield-check"></i></div>
                 <div class="channel-text">
                   <h4>Compliance & Privacy Inquiries</h4>
-                  <p><a href="mailto:compliance@gogorecipe.online" style="color: var(--primary);">compliance@gogorecipe.online</a></p>
+                  <p><a href="mailto:compliance@gogorecipe-deb35a23fd33.herokuapp.com" style="color: var(--primary);">compliance@gogorecipe-deb35a23fd33.herokuapp.com</a></p>
                 </div>
               </div>
             </div>
@@ -2306,7 +2306,7 @@
         
         <!-- Brand Summary -->
         <div class="footer-col">
-          <a href="https://gogorecipe.online/" class="logo" style="color: #FFFFFF; margin-bottom: 1rem; display: inline-flex;">
+          <a href="https://gogorecipe-deb35a23fd33.herokuapp.com/" class="logo" style="color: #FFFFFF; margin-bottom: 1rem; display: inline-flex;">
             <div class="logo-icon"><i class="fa-solid fa-utensils"></i></div>
             <div style="color: #FFFFFF;">GoGo<span style="color: var(--primary);">Recipe</span></div>
           </a>
@@ -2314,10 +2314,10 @@
             Empowering home cooks with simple, delicious, and triple-tested everyday meals. Fresh culinary ideas from our test kitchen straight to your table.
           </p>
           <div style="display: flex; gap: 0.75rem; color: #cbd5e1; font-size: 1.1rem;">
-            <a href="https://gogorecipe.online/" aria-label="Pinterest" style="color: #94A3B8;"><i class="fa-brands fa-pinterest"></i></a>
-            <a href="https://gogorecipe.online/" aria-label="Instagram" style="color: #94A3B8;"><i class="fa-brands fa-instagram"></i></a>
-            <a href="https://gogorecipe.online/" aria-label="YouTube" style="color: #94A3B8;"><i class="fa-brands fa-youtube"></i></a>
-            <a href="https://gogorecipe.online/" aria-label="Facebook" style="color: #94A3B8;"><i class="fa-brands fa-facebook"></i></a>
+            <a href="https://gogorecipe-deb35a23fd33.herokuapp.com/" aria-label="Pinterest" style="color: #94A3B8;"><i class="fa-brands fa-pinterest"></i></a>
+            <a href="https://gogorecipe-deb35a23fd33.herokuapp.com/" aria-label="Instagram" style="color: #94A3B8;"><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://gogorecipe-deb35a23fd33.herokuapp.com/" aria-label="YouTube" style="color: #94A3B8;"><i class="fa-brands fa-youtube"></i></a>
+            <a href="https://gogorecipe-deb35a23fd33.herokuapp.com/" aria-label="Facebook" style="color: #94A3B8;"><i class="fa-brands fa-facebook"></i></a>
           </div>
         </div>
 
@@ -2365,20 +2365,20 @@
 
       <!-- Compliance Disclaimer Note -->
       <div class="footer-disclaimer-box">
-        <strong>Google AdWords & FTC Compliance Statement:</strong> The information provided on <strong>https://gogorecipe.online</strong> is for general educational and culinary entertainment purposes only. The nutritional data is an automated approximation. In compliance with Google Ads policies and FTC rules, this website contains third-party advertisements and affiliate links. GoGo Recipe participates in affiliate programs designed to provide a means for sites to earn advertising fees by linking to relevant products. Read our full <a href="#legal-hub" onclick="switchPolicyTab('disclaimer')" style="color: #38BDF8; text-decoration: underline;">disclaimer & disclosures</a>.
+        <strong>Google AdWords & FTC Compliance Statement:</strong> The information provided on <strong>https://gogorecipe-deb35a23fd33.herokuapp.com</strong> is for general educational and culinary entertainment purposes only. The nutritional data is an automated approximation. In compliance with Google Ads policies and FTC rules, this website contains third-party advertisements and affiliate links. GoGo Recipe participates in affiliate programs designed to provide a means for sites to earn advertising fees by linking to relevant products. Read our full <a href="#legal-hub" onclick="switchPolicyTab('disclaimer')" style="color: #38BDF8; text-decoration: underline;">disclaimer & disclosures</a>.
       </div>
 
       <!-- Copyright & Bottom Bar -->
       <div class="footer-bottom">
         <div>
-          © 2026 <strong>GoGo Recipe</strong> (gogorecipe.online). All rights reserved.
+          © 2026 <strong>GoGo Recipe</strong> (gogorecipe-deb35a23fd33.herokuapp.com). All rights reserved.
         </div>
         <div class="footer-bottom-links">
           <a href="#legal-hub" onclick="switchPolicyTab('privacy')">Privacy</a>
           <a href="#legal-hub" onclick="switchPolicyTab('terms')">Terms</a>
           <a href="#legal-hub" onclick="switchPolicyTab('cookies')">Cookies</a>
           <a href="#contact">Contact</a>
-          <a href="https://gogorecipe.online/sitemap.xml" style="color: #64748B;">Sitemap</a>
+          <a href="https://gogorecipe-deb35a23fd33.herokuapp.com/sitemap.xml" style="color: #64748B;">Sitemap</a>
         </div>
       </div>
     </div>
@@ -2477,7 +2477,7 @@
   <aside class="cookie-banner" id="cookieBanner" role="dialog" aria-label="Cookie Consent">
     <div class="cookie-text">
       <strong style="color: #FFF;"><i class="fa-solid fa-cookie text-accent"></i> We value your privacy and trust.</strong><br>
-      We use cookies and Google analytics/advertising technologies to personalize recipes, measure traffic, and optimize your experience on <strong>gogorecipe.online</strong>. By clicking "Accept All", you consent to our use of cookies in accordance with our <a href="#legal-hub" onclick="switchPolicyTab('privacy')">Privacy Policy</a> and <a href="#legal-hub" onclick="switchPolicyTab('cookies')">Cookie Policy</a>.
+      We use cookies and Google analytics/advertising technologies to personalize recipes, measure traffic, and optimize your experience on <strong>gogorecipe-deb35a23fd33.herokuapp.com</strong>. By clicking "Accept All", you consent to our use of cookies in accordance with our <a href="#legal-hub" onclick="switchPolicyTab('privacy')">Privacy Policy</a> and <a href="#legal-hub" onclick="switchPolicyTab('cookies')">Cookie Policy</a>.
     </div>
     <div class="cookie-actions">
       <button class="cookie-btn-decline" onclick="handleCookieConsent('essential_only')">Essential Only</button>
@@ -3279,7 +3279,7 @@
         alertBox.className = "form-alert success";
         alertBox.innerHTML = `
           <strong><i class="fa-solid fa-circle-check"></i> Thank you, ${name}!</strong><br>
-          Your inquiry has been logged. Our test kitchen and policy support team at <strong>support@gogorecipe.online</strong> will respond to <strong>${email}</strong> within 24-48 business hours.
+          Your inquiry has been logged. Our test kitchen and policy support team at <strong>support@gogorecipe-deb35a23fd33.herokuapp.com</strong> will respond to <strong>${email}</strong> within 24-48 business hours.
         `;
         document.getElementById("contactForm").reset();
       }
